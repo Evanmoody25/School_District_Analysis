@@ -94,6 +94,14 @@ The school board has notified Maria and her supervisor that the students_complet
 
 ![Capture](https://user-images.githubusercontent.com/89880015/137043069-e3f445c4-2894-4909-9ed8-bd2a51a348e0.PNG)
 
+5) The average math score for each grade level from each school.
+
+![Capture](https://user-images.githubusercontent.com/89880015/137043571-7428a0f0-b140-440f-bec2-5f38c9f33355.PNG)
+
+6)The average reading score for each grade level from each school.
+
+![Capture](https://user-images.githubusercontent.com/89880015/137043657-c401c267-a6b1-45c1-876a-1311fcfe2f79.PNG)
+
 
 
 
