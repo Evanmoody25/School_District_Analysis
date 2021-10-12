@@ -1,5 +1,15 @@
 # School_District_Analysis
 
+## Overview of project
+-A snapshot of the district's key metrics, presented in table format.
+-Key metrics for each school, presented in table format.
+-Tables presenting each of the following metrics:
+1) Top 5 and bottom 5 performing schools, based on the overall passing rate
+2) The average math score received by students in each grade level at each school
+3) The average reading score received by students in each grade level at each school
+4) School performance based on the budget per student
+5) School performance based on the school size
+6) School performance based on the type of school Before we can begin these tasks, we need to import the datasets into Jupyter Notebook using Python.
 
 ## Background
 
