@@ -2,7 +2,9 @@
 
 ## Overview of project
 -A snapshot of the district's key metrics, presented in table format.
+
 -Key metrics for each school, presented in table format.
+
 -Tables presenting each of the following metrics:
 1) Top 5 and bottom 5 performing schools, based on the overall passing rate
 2) The average math score received by students in each grade level at each school
