@@ -102,7 +102,9 @@ The school board has notified Maria and her supervisor that the students_complet
 
 ![Capture](https://user-images.githubusercontent.com/89880015/137043657-c401c267-a6b1-45c1-876a-1311fcfe2f79.PNG)
 
+7)The scores by school spending per student.
 
+![Capture](https://user-images.githubusercontent.com/89880015/137043886-1ad2df7f-7894-4727-8b9a-90fc183e5106.PNG)
 
 
 
