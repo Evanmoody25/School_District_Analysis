@@ -54,26 +54,50 @@ The school board has notified Maria and her supervisor that the students_complet
 
 ![Capture](https://user-images.githubusercontent.com/89880015/137041552-b9d19280-caeb-4af5-a8d5-4e115fdb6582.PNG)
 
-## Deliverable 2
+## Deliverable 2 requirements
 
 ## The task is to repeat the school district analysis and update the following required metrics in the PyCitySchools_Challenge.ipynb file:
 
-The district summary DataFrame.
+1) The district summary DataFrame.
 
-The school summary DataFrame.
+2) The school summary DataFrame.
 
-The top 5 performing schools, based on the overall passing rate.
+3) The top 5 performing schools, based on the overall passing rate.
 
-The bottom 5 performing schools, based on the overall passing rate.
+4) The bottom 5 performing schools, based on the overall passing rate.
 
-The average math score for each grade level from each school.
-The average reading score for each grade level from each school.
+5) The average math score for each grade level from each school.
 
-The scores by school spending per student.
+6)The average reading score for each grade level from each school.
 
-The scores by school size.
+7)The scores by school spending per student.
 
-The scores by school type.
+8)The scores by school size.
+
+9)The scores by school type.
+
+## Deliverable 2
+
+1) The district summary DataFrame.
+
+![Capture](https://user-images.githubusercontent.com/89880015/137042588-6f9f6594-092e-4c5e-a808-161345a93291.PNG)
+
+2) The school summary DataFrame.
+
+![Capture](https://user-images.githubusercontent.com/89880015/137042747-d3c6dec3-97ff-420b-ba56-14461c2fac00.PNG)
+
+3) The top 5 performing schools, based on the overall passing rate.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
