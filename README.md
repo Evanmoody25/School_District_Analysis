@@ -19,7 +19,7 @@ The school board has notified Maria and her supervisor that the students_complet
 
 ## Deliverable 1 requierments 
 
-#The loc method is used to select all the reading and math scores from the ninth grade at Thomas High School.
+##The loc method is used to select all the reading and math scores from the ninth grade at Thomas High School.
 
 A comparison operator is used to retrieve all the rows with Thomas High School in the "school_name" column of the student_data_df.
 
@@ -34,7 +34,13 @@ The reading and math scores for the ninth graders in Thomas High school are repl
 # Deliverable 1 
 
 
-The loc method is used to select all the reading and math scores from the ninth grade at Thomas High School.
+##The loc method is used to select all the reading and math scores from the ninth grade at Thomas High School.
+
+A comparison operator is used to retrieve all the rows with Thomas High School in the "school_name" column of the student_data_df. &
+
+A comparison operator is used to retrieve all the rows with the ninth grade in the "grade" column of the student_data_df.
+
+![Capture](https://user-images.githubusercontent.com/89880015/137040911-0624eb15-4033-4fe0-98d3-1bd8bb696d30.PNG)
 
 
 
