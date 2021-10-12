@@ -34,7 +34,7 @@ The school board has notified Maria and her supervisor that the students_complet
 # Deliverable 1 
 
 
-##The loc method is used to select all the reading and math scores from the ninth grade at Thomas High School.
+## The loc method is used to select all the reading and math scores from the ninth grade at Thomas High School.
 
 1a) A comparison operator is used to retrieve all the rows with Thomas High School in the "school_name" column of the student_data_df.
 
@@ -54,7 +54,26 @@ The school board has notified Maria and her supervisor that the students_complet
 
 ![Capture](https://user-images.githubusercontent.com/89880015/137041552-b9d19280-caeb-4af5-a8d5-4e115fdb6582.PNG)
 
+## Deliverable 2
 
+## The task is to repeat the school district analysis and update the following required metrics in the PyCitySchools_Challenge.ipynb file:
+
+The district summary DataFrame.
+
+The school summary DataFrame.
+
+The top 5 performing schools, based on the overall passing rate.
+
+The bottom 5 performing schools, based on the overall passing rate.
+
+The average math score for each grade level from each school.
+The average reading score for each grade level from each school.
+
+The scores by school spending per student.
+
+The scores by school size.
+
+The scores by school type.
 
 
 
