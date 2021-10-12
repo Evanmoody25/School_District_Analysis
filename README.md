@@ -29,7 +29,7 @@ The school board has notified Maria and her supervisor that the students_complet
 
 2b) Logical and comparison operators are used to retrieve all the rows with the "math_score" column for Thomas High School ninth graders from the student_data_df.
 
-The reading and math scores for the ninth graders in Thomas High school are replaced with NaNs.
+3) The reading and math scores for the ninth graders in Thomas High school are replaced with NaNs.
 
 # Deliverable 1 
 
@@ -47,6 +47,15 @@ The reading and math scores for the ninth graders in Thomas High school are repl
 2b) Logical and comparison operators are used to retrieve all the rows with the "math_score" column for Thomas High School ninth graders from the student_data_df.
 
 ![Capture](https://user-images.githubusercontent.com/89880015/137041186-85b285d6-6705-47df-b493-3321ee9eb742.PNG)
+
+3) The reading and math scores for the ninth graders in Thomas High school are replaced with NaNs.
+
+![Capture](https://user-images.githubusercontent.com/89880015/137041497-f604997b-0a6f-446a-bfd2-9c25f5b38000.PNG)
+
+![Capture](https://user-images.githubusercontent.com/89880015/137041552-b9d19280-caeb-4af5-a8d5-4e115fdb6582.PNG)
+
+
+
 
 
 
