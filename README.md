@@ -88,7 +88,11 @@ The school board has notified Maria and her supervisor that the students_complet
 
 3) The top 5 performing schools, based on the overall passing rate.
 
+![Capture](https://user-images.githubusercontent.com/89880015/137043014-4cf22360-9dfd-473e-98b6-4f2559391758.PNG)
 
+4) The bottom 5 performing schools, based on the overall passing rate.
+
+![Capture](https://user-images.githubusercontent.com/89880015/137043069-e3f445c4-2894-4909-9ed8-bd2a51a348e0.PNG)
 
 
 
