@@ -21,13 +21,13 @@ The school board has notified Maria and her supervisor that the students_complet
 
 ##The loc method is used to select all the reading and math scores from the ninth grade at Thomas High School.
 
-A comparison operator is used to retrieve all the rows with Thomas High School in the "school_name" column of the student_data_df.
+1a) A comparison operator is used to retrieve all the rows with Thomas High School in the "school_name" column of the student_data_df.
 
-A comparison operator is used to retrieve all the rows with the ninth grade in the "grade" column of the student_data_df.
+1b) A comparison operator is used to retrieve all the rows with the ninth grade in the "grade" column of the student_data_df.
 
-Logical and comparison operators are used to retrieve all the rows with the "reading_score" column for Thomas High School ninth graders from the student_data_df.
+2a) Logical and comparison operators are used to retrieve all the rows with the "reading_score" column for Thomas High School ninth graders from the student_data_df.
 
-Logical and comparison operators are used to retrieve all the rows with the "math_score" column for Thomas High School ninth graders from the student_data_df.
+2b) Logical and comparison operators are used to retrieve all the rows with the "math_score" column for Thomas High School ninth graders from the student_data_df.
 
 The reading and math scores for the ninth graders in Thomas High school are replaced with NaNs.
 
@@ -36,11 +36,18 @@ The reading and math scores for the ninth graders in Thomas High school are repl
 
 ##The loc method is used to select all the reading and math scores from the ninth grade at Thomas High School.
 
-A comparison operator is used to retrieve all the rows with Thomas High School in the "school_name" column of the student_data_df. &
+1a) A comparison operator is used to retrieve all the rows with Thomas High School in the "school_name" column of the student_data_df.
 
-A comparison operator is used to retrieve all the rows with the ninth grade in the "grade" column of the student_data_df.
+1b) A comparison operator is used to retrieve all the rows with the ninth grade in the "grade" column of the student_data_df.
 
 ![Capture](https://user-images.githubusercontent.com/89880015/137040911-0624eb15-4033-4fe0-98d3-1bd8bb696d30.PNG)
+
+2a) Logical and comparison operators are used to retrieve all the rows with the "reading_score" column for Thomas High School ninth graders from the student_data_df.
+
+2b) Logical and comparison operators are used to retrieve all the rows with the "math_score" column for Thomas High School ninth graders from the student_data_df.
+
+![Capture](https://user-images.githubusercontent.com/89880015/137041186-85b285d6-6705-47df-b493-3321ee9eb742.PNG)
+
 
 
 
