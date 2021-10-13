@@ -145,6 +145,24 @@ Average Reading Score = 81.9
 
 ![Capture](https://user-images.githubusercontent.com/89880015/137044968-3ba75f8d-8b80-4405-b0b8-c242a24796e4.PNG)
 
+we see that the district summary without the the 9th graders from Thomas High School, there is little variation. Math scores go down a little bit, passing math goes down a 
+miniscule amount, passing reading amounts go down a miniscule amount, and overall passing goes down one 10th of a percent. 
+
+# How is school summary affected? 
+
+Before cleaning up the data: 
+
+![Capture](https://user-images.githubusercontent.com/89880015/137045974-1f5e289d-45df-4e05-8d34-4fb4ffa9b667.PNG)
+
+After the data was cleaned up 
+
+![Capture](https://user-images.githubusercontent.com/89880015/137046047-d64cc456-7aa4-49fe-8728-35a76277d703.PNG)
+
+We see there is no change in position due to the name changes but you can see that the averages for reading and mask scores have changed. 
+
+
+
+
 
 
 
