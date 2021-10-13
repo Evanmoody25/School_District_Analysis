@@ -116,7 +116,8 @@ The school board has notified Maria and her supervisor that the students_complet
 
 ## Deliverable 3 
 
-Summarizing the analysis. 
+Summarizing the analysis. We are going to be reviewing what is taking place once the data has been cleaned up and the effects of inserting nan for the 9th graders at thomas
+high school. 
 
 # District Summary
 
