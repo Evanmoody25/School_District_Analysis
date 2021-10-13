@@ -106,7 +106,43 @@ The school board has notified Maria and her supervisor that the students_complet
 
 ![Capture](https://user-images.githubusercontent.com/89880015/137043886-1ad2df7f-7894-4727-8b9a-90fc183e5106.PNG)
 
+8)The scores by school size.
 
+![image](https://user-images.githubusercontent.com/89880015/137044082-0b3e1a4d-04ae-49ed-b41a-68e25f914191.png)
+
+9)The scores by school type.
+
+![image](https://user-images.githubusercontent.com/89880015/137044175-0a9f4d55-cce5-4691-bfbb-643c89ebd474.png)
+
+## Deliverable 3 
+
+Summarizing the analysis. 
+
+# District Summary
+
+Average Math Score = 79.0
+
+Average Reading Score = 81.9
+
+% Passing Math 75
+
+% Passing Reading 86
+
+% Overall Passing 65
+
+![Capture](https://user-images.githubusercontent.com/89880015/137044709-60de164e-05f5-4824-8ff6-816d68e95f25.PNG)
+
+Average Math Score = 78.9
+
+Average Reading Score = 81.9
+
+% Passing Math 74.8
+
+% Passing Reading 85.7
+
+% Overall Passing 64.9
+
+![Capture](https://user-images.githubusercontent.com/89880015/137044968-3ba75f8d-8b80-4405-b0b8-c242a24796e4.PNG)
 
 
 
