@@ -130,7 +130,8 @@ Average Reading Score = 81.9
 
 % Overall Passing 65
 
-![Capture](https://user-images.githubusercontent.com/89880015/137044709-60de164e-05f5-4824-8ff6-816d68e95f25.PNG)
+![Capture](https://user-images.githubusercontent.com/89880015/137045258-8766f3de-d8b8-4024-bc3d-8ebb0c22cbcf.PNG)
+
 
 Average Math Score = 78.9
 
